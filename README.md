@@ -1,4 +1,4 @@
-![alt text](redteam2.jpg)
+<img align="center" width="100" height="100" src="redteam2.jpg">
 
 ### Welcome to the NobodyAtall Git Repo
 
