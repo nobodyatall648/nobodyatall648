@@ -1,4 +1,6 @@
-<img align="center" width="100" height="100" src="redteam2.jpg">
+<p align="center">
+  <img src="redteam2.jpg">
+</p>
 
 ### Welcome to the NobodyAtall Git Repo
 
