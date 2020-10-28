@@ -1,4 +1,4 @@
-![alt text](redteam1.png)
+![alt text](redteam2.jpg)
 
 ### Welcome to the NobodyAtall Git Repo
 
