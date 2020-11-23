@@ -14,5 +14,3 @@ https://tryhackme.com/p/nobodyatall
 
 HackTheBox Profile: 
 https://www.hackthebox.eu/profile/206191
-
-<script src="https://tryhackme.com/badge/44344"></script>
