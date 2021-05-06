@@ -18,6 +18,6 @@ https://www.youtube.com/c/nobodyatall
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobodyatall648&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Donation
-If my works help you reduce time to develop/helps you in pentesting, you can give me a cup of coffee :) 
+If my works help you reduce time to develop, in pentesting or in research, you can give me a cup of coffee :) 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/BryanL648?locale.x=en_US)
