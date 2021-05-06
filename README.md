@@ -19,6 +19,6 @@ https://www.hackthebox.eu/profile/206191
 <img src="https://www.hackthebox.eu/badge/image/206191" alt="HackTheBox">
 
 ## Donation
-If my works help you reduce time to develop/helps you in pentesting, you can give me a cup of coffee by supporting me :) 
+If my works help you reduce time to develop/helps you in pentesting, you can give me a cup of coffee :) 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/BryanL648?locale.x=en_US)
