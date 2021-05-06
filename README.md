@@ -10,12 +10,6 @@ I'm a Computer Science Student that's passion in CyberSec & Penetration Testing.
 My YouTube Channel: 
 https://www.youtube.com/c/nobodyatall
 
-TryHackMe Profile: 
-https://tryhackme.com/p/nobodyatall
-
-HackTheBox Profile: 
-https://www.hackthebox.eu/profile/206191
-
 ![alt text](thm.png)
 <img src="https://www.hackthebox.eu/badge/image/206191" alt="HackTheBox">
 
