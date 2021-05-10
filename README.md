@@ -9,8 +9,6 @@ I'm a Computer Science Student that's passion in CyberSec & Penetration Testing.
 
 YouTube: https://www.youtube.com/c/nobodyatall
 
-LinkedIn: https://www.linkedin.com/in/bryan-leong-a66160206
-
 ![alt text](thm.png)
 <img src="https://www.hackthebox.eu/badge/image/206191" alt="HackTheBox">
 
