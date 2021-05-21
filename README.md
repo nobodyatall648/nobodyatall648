@@ -11,6 +11,8 @@ YouTube: https://www.youtube.com/c/nobodyatall
 
 LinkedIn: https://www.linkedin.com/in/bryan-leong-a66160206/
 
+Medium: https://bryanleong98.medium.com/
+
 ![alt text](thm.png)
 <img src="https://www.hackthebox.eu/badge/image/206191" alt="HackTheBox">
 
