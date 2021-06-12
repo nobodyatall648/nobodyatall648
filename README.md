@@ -23,4 +23,5 @@ Medium: https://bryanleong98.medium.com/
 ### Donation
 If my works help you reduce time to develop, in pentesting or in research, you can give me a cup of coffee :) 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/BryanL648?locale.x=en_US)
+Bitcoin : 1HgMQAftKUnMHvGsNTkpuLHZYehHfqDT61
+Ethereum: 0x13AE19b1550B9d66372072c00a1a9762f5dB11B5
