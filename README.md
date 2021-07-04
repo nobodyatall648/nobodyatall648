@@ -26,4 +26,4 @@ Ethereum: 0x13AE19b1550B9d66372072c00a1a9762f5dB11B5
 
 ### Contact
 If you guys want to contact me, do drop me an email. <br>
-ProtonMail: nobodyatall648@protonmail.com
+Email: nobodyatall648@protonmail.com
