@@ -12,6 +12,7 @@ LinkedIn: https://www.linkedin.com/in/bryan-leong-a66160206/ <br>
 Medium: https://bryanleong98.medium.com/
 
 ![alt text](thm.png)
+
 <script src="https://www.hackthebox.eu/badge/206191"></script>
 
 ### Statistic
