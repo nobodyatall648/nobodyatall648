@@ -12,9 +12,7 @@ LinkedIn: https://www.linkedin.com/in/bryan-leong-a66160206/ <br>
 Medium: https://bryanleong98.medium.com/
 
 ![alt text](thm.png)
-```JS
-src="https://www.hackthebox.eu/badge/206191"
-```
+![alt text](htb.png)
 
 ### Statistic
 ![nobodyatall's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobodyatall648&show_icons=true&theme=radical)
