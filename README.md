@@ -21,8 +21,8 @@ Medium: https://bryanleong98.medium.com/
 ### Donation
 If my works help you reduce time to develop, in pentesting or in research, you can give me a cup of coffee :) 
 
-Bitcoin : 1BvAqCjsgQjAWTNvYqwdzcrghNDoakambn <br>
-Ethereum: 0x13AE19b1550B9d66372072c00a1a9762f5dB11B5
+Bitcoin : 3MeYVUuY4K7kvRVNiRFqY888UvzRac3mqS <br>
+Ethereum: 0xaa8cd0251BbB6923309Ae5000670039966d06395
 
 ### Contact
 If you guys want to contact me, do drop me an email. <br>
