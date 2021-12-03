@@ -10,8 +10,8 @@ I'm a Computer Science Student & a CTF player that's passion in CyberSec & Penet
 YouTube: https://www.youtube.com/c/nobodyatall <br>
 LinkedIn: https://www.linkedin.com/in/bryan-leong-a66160206/ <br>
 Medium: https://bryanleong98.medium.com/ <br>
-HackTheBox: app.hackthebox.com/profile/206191 <br>
-TryHackMe: tryhackme.com/p/nobodyatall
+HackTheBox: https://app.hackthebox.com/profile/206191 <br>
+TryHackMe: https://tryhackme.com/p/nobodyatall
 
 ![alt text](thm.png)
 ![alt text](htb.png)
