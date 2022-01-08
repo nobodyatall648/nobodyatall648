@@ -5,7 +5,7 @@
 ## Welcome to the NobodyAtall Git Repo
 
 ### About Me
-I'm a Computer Science Student & a CTF player that's passion in CyberSec & Penetration Testing. I've started learning Programming during my diploma days (2016) & started to do pentesting & cyberSec research since 2019. In my git repo I'll be adding my writeup, exploit script, or any interesting stuff that I found throughout my pentesting. Here are my public profile links:-
+I'm a Computer Science Student & a CTF player that's passion in CyberSec & Penetration Testing. I've started learning Programming, Networking, & other IT Fundamental Knowledge during my diploma days (2016) & started to do pentesting & cyberSec research since 2019. In my git repo I'll be adding my writeup, exploit script, or any interesting stuff that I found throughout my pentesting. Here are my public profile links:-
 
 YouTube: https://www.youtube.com/c/nobodyatall <br>
 LinkedIn: https://www.linkedin.com/in/bryan-leong-a66160206/ <br>
