@@ -14,7 +14,7 @@ HackTheBox: https://app.hackthebox.com/profile/206191 <br>
 TryHackMe: https://tryhackme.com/p/nobodyatall
 
 ![alt text](thm.png)
-![alt text](htb.png)
+![alt text](206191.png)
 
 ### CVE Uploaded to exploit-db.com
 osCommerce 2.3.4.1 - Remote Code Execution (2): https://www.exploit-db.com/exploits/50128  <br>
