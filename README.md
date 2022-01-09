@@ -16,6 +16,11 @@ TryHackMe: https://tryhackme.com/p/nobodyatall
 ![alt text](thm.png)
 ![alt text](htb.png)
 
+###CVE Uploaded to exploit-db.com
+https://www.exploit-db.com/exploits/50128 (osCommerce 2.3.4.1 - Remote Code Execution (2))
+https://www.exploit-db.com/exploits/50069 (Netgear WNAP320 2.0.3 - 'macAddress' Remote Code Execution (RCE) (Unauthenticated))
+https://www.exploit-db.com/exploits/50062 (Seeddms 5.1.10 - Remote Command Execution (RCE) (Authenticated))
+
 ### Statistic
 ![nobodyatall's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobodyatall648&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobodyatall648&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
