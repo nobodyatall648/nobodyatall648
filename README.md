@@ -29,7 +29,7 @@ VUPlayer 2.49 - '.wax' Local Buffer Overflow (DEP Bypass) : https://www.exploit-
 ### Donation
 If my works help you reduce time to develop, in pentesting or in research, you can give me a cup of coffee :) 
 
-Ethereum: 0x8C09381f560a4e4E26B55222005584f4B5CBBBC9
+Bitcoin: 3MeYVUuY4K7kvRVNiRFqY888UvzRac3mqS
 
 ### Contact
 If you guys want to contact me, do drop me an email. <br>
