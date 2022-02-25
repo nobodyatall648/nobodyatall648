@@ -18,7 +18,7 @@ TryHackMe: https://tryhackme.com/p/nobodyatall
 ![alt text](thm.png)
 ![alt text](206191.png)
 
-### CVE Uploaded to exploit-db.com
+### Exploit Scripts Uploaded to exploit-db.com
 osCommerce 2.3.4.1 - Remote Code Execution (2): https://www.exploit-db.com/exploits/50128  <br>
 Netgear WNAP320 2.0.3 - 'macAddress' Remote Code Execution (RCE) (Unauthenticated): https://www.exploit-db.com/exploits/50069 <br>
 Seeddms 5.1.10 - Remote Command Execution (RCE) (Authenticated): https://www.exploit-db.com/exploits/50062 <br>
