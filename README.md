@@ -19,6 +19,7 @@ TryHackMe: https://tryhackme.com/p/nobodyatall
 ![alt text](206191.png)
 
 ### Exploit Scripts Uploaded to exploit-db.com
+Telesquare SDT-CW3B1 1.1.0 - OS Command Injection: https://www.exploit-db.com/exploits/50948 <br>
 osCommerce 2.3.4.1 - Remote Code Execution (2): https://www.exploit-db.com/exploits/50128  <br>
 Netgear WNAP320 2.0.3 - 'macAddress' Remote Code Execution (RCE) (Unauthenticated): https://www.exploit-db.com/exploits/50069 <br>
 Seeddms 5.1.10 - Remote Command Execution (RCE) (Authenticated): https://www.exploit-db.com/exploits/50062 <br>
